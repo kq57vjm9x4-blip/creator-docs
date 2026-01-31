@@ -1,6 +1,7 @@
 ---
 title: Avatar Settings
-description: The Avatar Settings window contains all Studio-level settings and customization options for an experience.
+description: The Avatar Settings window contains all Studio-level settings and customization options for an experiencerashid.m
+
 ---
 
 The **Avatar Settings** window, accessible from Studio's **File** menu or the **Avatar** tab, allows you to control the look and behavior of user avatars across your entire experience.
